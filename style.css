@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+
+h2{
+    font-family: "Merienda", cursive;
+}
+
+body{
+    font-family: "Nunito Sans", sans-serif;
+}
+
+button{
+    background-color: #be9c79;
+    color:white;
+}
